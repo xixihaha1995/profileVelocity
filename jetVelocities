@@ -149,3 +149,23 @@ Continue to process NEXT image? Y/N [Y]: break
 C:\Users\lab-admin\Desktop\Lichen_Wu\movies_processed\ndl14_hgt5_r1\ndl14_ht5_r1_-0802.txt
 Continue to process NEXT image? Y/N [Y]: {Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('readAndPlotText_Wu_20200223', 'C:\Users\lab-admin\Desktop\Lichen_Wu\matlab\profileVelocity\readAndPlotText_Wu_20200223.m', 108)" style="font-weight:bold">readAndPlotText_Wu_20200223</a> (<a href="matlab: opentoline('C:\Users\lab-admin\Desktop\Lichen_Wu\matlab\profileVelocity\readAndPlotText_Wu_20200223.m',108,0)">line 108</a>)
 } 
+readAndPlotText_Wu_20200223
+  Columns 1 through 5
+
+         2020            3           10           17            9
+
+  Column 6
+
+       52.755
+
+currentNdl: 14
+currentHight:  5
+currentRun:  1
+ii:  -803
+C:\Users\lab-admin\Desktop\Lichen_Wu\movies_processed\ndl14_hgt5_r1\ndl14_ht5_r1_-0803.txt
+impXX=1307  impYY=1067
+Continue to process NEXT image? Y/N [Y]: C:\Users\lab-admin\Desktop\Lichen_Wu\movies_processed\ndl14_hgt5_r1\ndl14_ht5_r1_-0803.txt
+impXX=1307  impYY=1067
+Continue to process NEXT image? Y/N [Y]: {Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('readAndPlotText_Wu_20200223', 'C:\Users\lab-admin\Desktop\Lichen_Wu\matlab\profileVelocity\readAndPlotText_Wu_20200223.m', 109)" style="font-weight:bold">readAndPlotText_Wu_20200223</a> (<a href="matlab: opentoline('C:\Users\lab-admin\Desktop\Lichen_Wu\matlab\profileVelocity\readAndPlotText_Wu_20200223.m',109,0)">line
+109</a>)
+} 
