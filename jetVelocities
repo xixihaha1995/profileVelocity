@@ -17,3 +17,95 @@ height =
 
         1099
 
+readAndPlotText_Wu_20200223
+         2020            3           10           16           28        35.15
+
+currentNdl: 14
+currentHight:  5
+currentRun:  1
+ii:  -800
+C:\Users\lab-admin\Desktop\Lichen_Wu\movies_processed\ndl14_hgt5_r1\ndl14_ht5_r1_-0800.txt
+{Unrecognized function or variable 'cenXX'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('readAndPlotText_Wu_20200223', 'C:\Users\lab-admin\Desktop\Lichen_Wu\matlab\profileVelocity\readAndPlotText_Wu_20200223.m', 97)" style="font-weight:bold">readAndPlotText_Wu_20200223</a> (<a href="matlab: opentoline('C:\Users\lab-admin\Desktop\Lichen_Wu\matlab\profileVelocity\readAndPlotText_Wu_20200223.m',97,0)">line 97</a>)
+    [currentDate;currentNdl;currentHight;currentRun;c(1);c(2);c(3);c(4);c(5);c(6);ii;cenXX; cenYY;radii]); %relative to flat surface
+} 
+opentoline('C:\Users\lab-admin\Desktop\Lichen_Wu\matlab\profileVelocity\readAndPlotText_Wu_20200223.m',97,0)
+opentoline('C:\Users\lab-admin\Desktop\Lichen_Wu\matlab\profileVelocity\readAndPlotText_Wu_20200223.m',97,0)
+readAndPlotText_Wu_20200223
+         2020            3           10           16           29        6.192
+
+currentNdl: 14
+currentHight:  5
+currentRun:  1
+ii:  -800
+C:\Users\lab-admin\Desktop\Lichen_Wu\movies_processed\ndl14_hgt5_r1\ndl14_ht5_r1_-0800.txt
+readAndPlotText_Wu_20200223
+         2020            3           10           16           29         45.6
+
+currentNdl: 14
+currentHight:  5
+currentRun:  1
+ii:  -800
+C:\Users\lab-admin\Desktop\Lichen_Wu\movies_processed\ndl14_hgt5_r1\ndl14_ht5_r1_-0800.txt
+------------------
+class(y0
+ class(y0
+         
+{Error: Invalid expression. When calling a function or indexing a variable, use parentheses. Otherwise, check for mismatched delimiters.
+} 
+class(y)
+
+ans =
+
+    'double'
+
+y(1)
+
+ans =
+
+        1099
+
+y(2)
+
+ans =
+
+        1098
+
+[minH_index,minH] = min(C{2})
+
+minH_index =
+
+   -99
+
+
+minH =
+
+     1
+
+[minH_index,minH] = min(y)
+
+minH_index =
+
+        1069
+
+
+minH =
+
+   564
+
+x(564)
+
+ans =
+
+        1339
+
+readAndPlotText_Wu_20200223
+         2020            3           10           16           41        6.885
+
+currentNdl: 14
+currentHight:  5
+currentRun:  1
+ii:  -801
+C:\Users\lab-admin\Desktop\Lichen_Wu\movies_processed\ndl14_hgt5_r1\ndl14_ht5_r1_-0801.txt
+------------------

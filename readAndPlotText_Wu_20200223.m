@@ -47,6 +47,9 @@ prefix_5= '_';
 prefix = strcat(prefix_1,prefix_15,prefix_10,prefix_11,prefix_6,...
     prefix_7,prefix_2,prefix_3,prefix_12,prefix_13,prefix_8,prefix_9,prefix_4,prefix_5,num2str(ii, '%05g'),ext);
 
+disp(prefix)
+disp('------------------')
+
 prefix_img = strcat(prefix_1,prefix_15,prefix_10,prefix_11,prefix_6,...
     prefix_7,prefix_2,prefix_3,prefix_12,prefix_13,prefix_8,prefix_9,prefix_4,prefix_5,num2str(ii, '%05g'),ext_img);
 % 
@@ -85,13 +88,14 @@ hold on;
 x = C{1};
 y = 1000 - C{2};
 
-height = max(y)
+[heightYY,minH_index] = min(y);
+heightXX = x(minH_index);
 
 plot(x,y);
 
 
-% fid = fopen(filename_out,'a');
-% fprintf(fid, '%d \t %d \t %d \t %d \t %d \t  %d \t  %d \t  %d \t  %d \t  %d \t %d \t %8.2f \t %8.2f \t %8.2f\n',...
-%     [currentDate;currentNdl;currentHight;currentRun;c(1);c(2);c(3);c(4);c(5);c(6);ii;cenXX; cenYY;radii]); %relative to flat surface
-% fclose(fid);
+fid = fopen(filename_out,'a');
+fprintf(fid, '%d \t %d \t %d \t %d \t %d \t  %d \t  %d \t  %d \t  %d \t  %d \t %d \t  %d \t %8.2f\n',...
+    [currentDate;currentNdl;currentHight;currentRun;c(1);c(2);c(3);c(4);c(5);c(6);ii;heightXX;heightYY]); %relative to flat surface
+fclose(fid);
 diary jetVelocities
