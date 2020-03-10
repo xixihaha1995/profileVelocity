@@ -104,13 +104,9 @@ while go_on == 'Y' | go_on == 'y'
     
     if i = 0
         heightYY_old = heightYY;
-        i = i+1;
-        disp(heightYY_old)
     else
         increaseHight = heightYY_old - heightYY;
-        heightYY_old = heightYY;
-        disp(heightYY_old)
-    end
+    heightYY_old = heightYY;
     
     if increaseHight>4
         for i = 1:5

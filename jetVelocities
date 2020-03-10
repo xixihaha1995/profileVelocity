@@ -169,3 +169,53 @@ impXX=1307  impYY=1067
 Continue to process NEXT image? Y/N [Y]: {Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('readAndPlotText_Wu_20200223', 'C:\Users\lab-admin\Desktop\Lichen_Wu\matlab\profileVelocity\readAndPlotText_Wu_20200223.m', 109)" style="font-weight:bold">readAndPlotText_Wu_20200223</a> (<a href="matlab: opentoline('C:\Users\lab-admin\Desktop\Lichen_Wu\matlab\profileVelocity\readAndPlotText_Wu_20200223.m',109,0)">line
 109</a>)
 } 
+readAndPlotText_Wu_20200223
+  Columns 1 through 5
+
+         2020            3           10           17           19
+
+  Column 6
+
+        48.88
+
+currentNdl: 14
+currentHight:  5
+currentRun:  2
+ii:  -913
+C:\Users\lab-admin\Desktop\Lichen_Wu\movies_processed\ndl14_hgt5_r2\ndl14_ht5_r2_-0913.txt
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('textscan')" style="font-weight:bold">textscan</a>
+Invalid file identifier. Use fopen to generate a valid file
+identifier.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('readAndPlotText_Wu_20200223', 'C:\Users\lab-admin\Desktop\Lichen_Wu\matlab\profileVelocity\readAndPlotText_Wu_20200223.m', 87)" style="font-weight:bold">readAndPlotText_Wu_20200223</a> (<a href="matlab: opentoline('C:\Users\lab-admin\Desktop\Lichen_Wu\matlab\profileVelocity\readAndPlotText_Wu_20200223.m',87,0)">line 87</a>)
+    C = textscan(fileID, '%f %f');
+} 
+opentoline('C:\Users\lab-admin\Desktop\Lichen_Wu\matlab\profileVelocity\readAndPlotText_Wu_20200223.m',87,0)
+opentoline('C:\Users\lab-admin\Desktop\Lichen_Wu\matlab\profileVelocity\readAndPlotText_Wu_20200223.m',87,0)
+readAndPlotText_Wu_20200223
+  Columns 1 through 5
+
+         2020            3           10           17           21
+
+  Column 6
+
+         9.94
+
+currentNdl: 14
+currentHight:  5
+currentRun:  2
+ii:  -912
+C:\Users\lab-admin\Desktop\Lichen_Wu\movies_processed\ndl14_hgt5_r2\ndl14_ht5_r2_-0912.txt
+impXX=1384  impYY=1066
+Continue to process NEXT image? Y/N [Y]: C:\Users\lab-admin\Desktop\Lichen_Wu\movies_processed\ndl14_hgt5_r2\ndl14_ht5_r2_-0911.txt
+impXX=1285  impYY=1063
+Continue to process NEXT image? Y/N [Y]: C:\Users\lab-admin\Desktop\Lichen_Wu\movies_processed\ndl14_hgt5_r2\ndl14_ht5_r2_-0910.txt
+impXX=1265  impYY=1046
+Continue to process NEXT image? Y/N [Y]: C:\Users\lab-admin\Desktop\Lichen_Wu\movies_processed\ndl14_hgt5_r2\ndl14_ht5_r2_-0909.txt
+impXX=1261  impYY=1026
+Continue to process NEXT image? Y/N [Y]: C:\Users\lab-admin\Desktop\Lichen_Wu\movies_processed\ndl14_hgt5_r2\ndl14_ht5_r2_-0908.txt
+impXX=1290  impYY=1006
+Continue to process NEXT image? Y/N [Y]: C:\Users\lab-admin\Desktop\Lichen_Wu\movies_processed\ndl14_hgt5_r2\ndl14_ht5_r2_-0907.txt
+impXX=1282  impYY=982
+Continue to process NEXT image? Y/N [Y]: n
+---------------
