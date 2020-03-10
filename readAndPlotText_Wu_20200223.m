@@ -110,7 +110,7 @@ while go_on == 'Y' | go_on == 'y'
     
     if isempty(go_on)
         go_on = 'Y';
-        ii = i+1;
+        ii = ii+1;
     elseif contains('nN', go_on)
         break 
     end
