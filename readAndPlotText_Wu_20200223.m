@@ -95,7 +95,7 @@ while go_on == 'Y' | go_on == 'y'
 
     [heightYY,minH_index] = min(y);
     heightXX = x(minH_index);
-    fprintf('%d  %d',heightXX,heightYY);
+    fprintf('impXX=%d  impYY=%d\n',heightXX,heightYY);
 
     plot(x,y);
 
@@ -112,7 +112,7 @@ while go_on == 'Y' | go_on == 'y'
     if isempty(go_on)
         go_on = 'Y';
         i = i+1;
-    elseif contains(go_on, 'nN')
+    elseif contains('nN', go_on)
         break 
     end
 end
