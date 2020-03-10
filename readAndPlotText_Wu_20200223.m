@@ -108,11 +108,13 @@ while go_on == 'Y' | go_on == 'y'
 
     go_on = input('Continue to process NEXT image? Y/N [Y]: ','s');
     go_on ='';
-        if isempty(go_on)
-            go_on = 'Y';
-            i = i+1;
-        elseif go_on =='n'
-            break   
+    
+    if isempty(go_on)
+        go_on = 'Y';
+        i = i+1;
+    elseif contains(go_on, 'nN')
+        break 
+    end
 end
 
 disp('---------------')
