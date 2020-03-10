@@ -1,6 +1,12 @@
 close all; 
 clc;
 
+% read level and centres
+% calculate the absolute height of centres
+% -0.003 s for V_i
+% 0.005 s for V_j
+
+
 currentDate = 20200108;
 % 20200107 is blank
 
