@@ -12,7 +12,7 @@ format shortg
 c = clock;
 disp(c);
 
-ext = '.txt';
+ext = '_test.txt';
 ext_img = '.bmp';
 ext_out = '.txt';
 
@@ -139,8 +139,8 @@ while go_on == 'Y' | go_on == 'y'
             ii = ii+1;
             prefix = strcat(prefix_1,prefix_15,prefix_10,prefix_11,prefix_6,...
                 prefix_7,prefix_2,prefix_3,prefix_12,prefix_13,prefix_8,prefix_9,prefix_4,prefix_5,num2str(ii, '%05g'),ext);
-        fprintf('%d to %d are jet growing', ii-5,ii-1);
         end
+        fprintf('%d to %d are jet growing', ii-5,ii-1);
         break
     end
  

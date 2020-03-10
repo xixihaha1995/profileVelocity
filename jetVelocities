@@ -449,3 +449,52 @@ img-1002 impXX=1280  impYY=1008
         1008
 
 ---------------
+readAndPlotText_Wu_20200223
+  Columns 1 through 5
+
+         2020            3           10           18           18
+
+  Column 6
+
+       31.078
+
+currentNdl: 14
+currentHight:  6
+currentRun:  1
+ii:  -759
+<a href="matlab: opentoline('C:\Users\lab-admin\Desktop\Lichen_Wu\matlab\profileVelocity\readAndPlotText_Wu_20200223.m',54,1)">54  </a>    ii = ii + 1;
+ii
+
+ii =
+
+        1671
+
+if system_dependent('IsDebugMode')==1, dbquit; end
+readAndPlotText_Wu_20200223
+         2020            3           10           18           19       41.477
+
+currentNdl: 14
+currentHight:  6
+currentRun:  1
+ii:  -759
+C:\Users\lab-admin\Desktop\Lichen_Wu\movies_processed\ndl14_hgt6_r1\ndl14_ht6_r1_-0758_test.txt
+img-758 impXX=4.530500e+02  impYY=9.859600e+02
+       985.96
+
+Continue to process NEXT image? Y/N [Y]: C:\Users\lab-admin\Desktop\Lichen_Wu\movies_processed\ndl14_hgt6_r1\ndl14_ht6_r1_-0757_test.txt
+img-757 impXX=4.550500e+02  impYY=9.859600e+02
+       985.96
+
+Continue to process NEXT image? Y/N [Y]: C:\Users\lab-admin\Desktop\Lichen_Wu\movies_processed\ndl14_hgt6_r1\ndl14_ht6_r1_-0756_test.txt
+img-756 impXX=2.570500e+02  impYY=9.862300e+02
+       986.23
+
+Continue to process NEXT image? Y/N [Y]: C:\Users\lab-admin\Desktop\Lichen_Wu\movies_processed\ndl14_hgt6_r1\ndl14_ht6_r1_-0755_test.txt
+img-755 impXX=2.520600e+02  impYY=9.852100e+02
+       985.21
+
+Continue to process NEXT image? Y/N [Y]: C:\Users\lab-admin\Desktop\Lichen_Wu\movies_processed\ndl14_hgt6_r1\ndl14_ht6_r1_-0754_test.txt
+img-754 impXX=2.541600e+02  impYY=9.572200e+02
+       957.22
+
+-758 to -754 are jet growing-757 to -753 are jet growing-756 to -752 are jet growing-755 to -751 are jet growing-754 to -750 are jet growing---------------
