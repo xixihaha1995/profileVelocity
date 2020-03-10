@@ -18,6 +18,7 @@ ext_out = '.txt';
 
 go_on ='y';
 increaseHight = 0;
+i=0;
 
 
 currentDate = 20200107;
@@ -46,7 +47,16 @@ prefix_9 ='_r';
 prefix_4 =num2str(currentRun);
 prefix_5= '_';
 
+prefix = strcat(prefix_1,prefix_15,prefix_10,prefix_11,prefix_6,...
+        prefix_7,prefix_2,prefix_3,prefix_12,prefix_13,prefix_8,prefix_9,prefix_4,prefix_5,num2str(ii, '%05g'),ext);
 
+while exist(prefix)==0
+    ii = ii + 1;
+    prefix = strcat(prefix_1,prefix_15,prefix_10,prefix_11,prefix_6,...
+        prefix_7,prefix_2,prefix_3,prefix_12,prefix_13,prefix_8,prefix_9,prefix_4,prefix_5,num2str(ii, '%05g'),ext);
+    prefix_img = strcat(prefix_1,prefix_15,prefix_10,prefix_11,prefix_6,...
+        prefix_7,prefix_2,prefix_3,prefix_12,prefix_13,prefix_8,prefix_9,prefix_4,prefix_5,num2str(ii, '%05g'),ext_img);
+end
 
 while go_on == 'Y' | go_on == 'y'
 
@@ -54,10 +64,7 @@ while go_on == 'Y' | go_on == 'y'
         prefix_7,prefix_2,prefix_3,prefix_12,prefix_13,prefix_8,prefix_9,prefix_4,prefix_5,num2str(ii, '%05g'),ext);
 
     disp(prefix)
-
-
-
-
+    
     prefix_img = strcat(prefix_1,prefix_15,prefix_10,prefix_11,prefix_6,...
         prefix_7,prefix_2,prefix_3,prefix_12,prefix_13,prefix_8,prefix_9,prefix_4,prefix_5,num2str(ii, '%05g'),ext_img);
     % 
@@ -83,6 +90,8 @@ while go_on == 'Y' | go_on == 'y'
     outDir = 'C:\Users\lab-admin\Desktop\Lichen_Wu\matlab\profileVelocity\';
 
     filename_out = strcat(outDir,'JetVel',ext_out);
+    
+
 
 
 
@@ -102,7 +111,7 @@ while go_on == 'Y' | go_on == 'y'
     hold on;
     plot(x,y);
     
-    if i = 0
+    if i == 0
         heightYY_old = heightYY;
         i = i+1;
         disp(heightYY_old)
@@ -127,7 +136,6 @@ while go_on == 'Y' | go_on == 'y'
     if isempty(go_on)
         go_on = 'Y';
         ii = ii+1;
-        
     elseif contains('nN', go_on)
         break 
     end

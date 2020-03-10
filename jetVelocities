@@ -219,3 +219,174 @@ Continue to process NEXT image? Y/N [Y]: C:\Users\lab-admin\Desktop\Lichen_Wu\mo
 impXX=1282  impYY=982
 Continue to process NEXT image? Y/N [Y]: n
 ---------------
+readAndPlotText_Wu_20200223
+{Error: <a href="matlab: opentoline('C:\Users\lab-admin\Desktop\Lichen_Wu\matlab\profileVelocity\readAndPlotText_Wu_20200223.m',105,10)">File: readAndPlotText_Wu_20200223.m Line: 105 Column: 10
+</a>Incorrect use of '=' operator. To assign a value to a variable, use '='. To compare values for equality, use '=='.
+} 
+opentoline('C:\Users\lab-admin\Desktop\Lichen_Wu\matlab\profileVelocity\readAndPlotText_Wu_20200223.m',105,10)
+readAndPlotText_Wu_20200223
+         2020            3           10           17           54       51.872
+
+currentNdl: 14
+currentHight:  5
+currentRun:  3
+ii:  -1010
+C:\Users\lab-admin\Desktop\Lichen_Wu\movies_processed\ndl14_hgt5_r3\ndl14_ht5_r3_-1010.txt
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('textscan')" style="font-weight:bold">textscan</a>
+Invalid file identifier. Use fopen to generate a valid file identifier.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('readAndPlotText_Wu_20200223', 'C:\Users\lab-admin\Desktop\Lichen_Wu\matlab\profileVelocity\readAndPlotText_Wu_20200223.m', 94)" style="font-weight:bold">readAndPlotText_Wu_20200223</a> (<a href="matlab: opentoline('C:\Users\lab-admin\Desktop\Lichen_Wu\matlab\profileVelocity\readAndPlotText_Wu_20200223.m',94,0)">line 94</a>)
+    C = textscan(fileID, '%f %f');
+} 
+opentoline('C:\Users\lab-admin\Desktop\Lichen_Wu\matlab\profileVelocity\readAndPlotText_Wu_20200223.m',94,0)
+prefix
+
+prefix =
+
+    'C:\Users\lab-admin\Desktop\Lichen_Wu\movies_processed\ndl14_hgt5_r3\ndl14_ht5_r3_-1010.txt'
+
+readAndPlotText_Wu_20200223
+         2020            3           10           17           55       41.906
+
+currentNdl: 14
+currentHight:  5
+currentRun:  3
+ii:  -1010
+C:\Users\lab-admin\Desktop\Lichen_Wu\movies_processed\ndl14_hgt5_r3\ndl14_ht5_r3_-1010.txt
+<a href="matlab: opentoline('C:\Users\lab-admin\Desktop\Lichen_Wu\matlab\profileVelocity\readAndPlotText_Wu_20200223.m',88,1)">88  </a>        ii = ii + 1;
+ii
+
+ii =
+
+      186472
+
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbquit; end
+readAndPlotText_Wu_20200223
+         2020            3           10           17           57          3.8
+
+currentNdl: 14
+currentHight:  5
+currentRun:  3
+ii:  -1010
+C:\Users\lab-admin\Desktop\Lichen_Wu\movies_processed\ndl14_hgt5_r3\ndl14_ht5_r3_-1010.txt
+img-1003 impXX=1278  impYY=1032
+{Unrecognized function or variable 'heightYY_old'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('readAndPlotText_Wu_20200223', 'C:\Users\lab-admin\Desktop\Lichen_Wu\matlab\profileVelocity\readAndPlotText_Wu_20200223.m', 116)" style="font-weight:bold">readAndPlotText_Wu_20200223</a> (<a href="matlab: opentoline('C:\Users\lab-admin\Desktop\Lichen_Wu\matlab\profileVelocity\readAndPlotText_Wu_20200223.m',116,0)">line 116</a>)
+        increaseHight = heightYY_old - heightYY;
+} 
+opentoline('C:\Users\lab-admin\Desktop\Lichen_Wu\matlab\profileVelocity\readAndPlotText_Wu_20200223.m',116,0)
+readAndPlotText_Wu_20200223
+  Columns 1 through 5
+
+         2020            3           10           17           58
+
+  Column 6
+
+       10.324
+
+currentNdl: 14
+currentHight:  5
+currentRun:  3
+ii:  -1010
+C:\Users\lab-admin\Desktop\Lichen_Wu\movies_processed\ndl14_hgt5_r3\ndl14_ht5_r3_-1010.txt
+img-1003 impXX=1278  impYY=1032
+        1032
+
+Continue to process NEXT image? Y/N [Y]: n
+---------------
+readAndPlotText_Wu_20200223
+         2020            3           10           18            0       18.883
+
+currentNdl: 14
+currentHight:  5
+currentRun:  3
+ii:  -1010
+<a href="matlab: opentoline('C:\Users\lab-admin\Desktop\Lichen_Wu\matlab\profileVelocity\readAndPlotText_Wu_20200223.m',54,1)">54  </a>    ii = ii + 1;
+if system_dependent('IsDebugMode')==1, dbquit; end
+readAndPlotText_Wu_20200223
+         2020            3           10           18            0       46.986
+
+currentNdl: 14
+currentHight:  5
+currentRun:  3
+ii:  -1010
+img-1003 impXX=1278  impYY=1032
+        1032
+
+Continue to process NEXT image? Y/N [Y]: img-1002 impXX=1280  impYY=1008
+        1008
+
+---------------
+readAndPlotText_Wu_20200223
+         2020            3           10           18            1       58.725
+
+currentNdl: 14
+currentHight:  5
+currentRun:  3
+ii:  -1010
+C:\Users\lab-admin\Desktop\Lichen_Wu\movies_processed\ndl14_hgt5_r3\ndl14_ht5_r3_-1003.txt
+img-1003 impXX=1278  impYY=1032
+        1032
+
+Continue to process NEXT image? Y/N [Y]: C:\Users\lab-admin\Desktop\Lichen_Wu\movies_processed\ndl14_hgt5_r3\ndl14_ht5_r3_-1002.txt
+img-1002 impXX=1280  impYY=1008
+        1008
+
+---------------
+readAndPlotText_Wu_20200223
+         2020            3           10           18            2       14.854
+
+currentNdl: 14
+currentHight:  5
+currentRun:  3
+ii:  -1010
+C:\Users\lab-admin\Desktop\Lichen_Wu\movies_processed\ndl14_hgt5_r3\ndl14_ht5_r3_-1003.txt
+img-1003 impXX=1278  impYY=1032
+        1032
+
+Continue to process NEXT image? Y/N [Y]: C:\Users\lab-admin\Desktop\Lichen_Wu\movies_processed\ndl14_hgt5_r3\ndl14_ht5_r3_-1002.txt
+img-1002 impXX=1280  impYY=1008
+        1008
+
+---------------
+readAndPlotText_Wu_20200223
+         2020            3           10           18            2       23.427
+
+currentNdl: 14
+currentHight:  5
+currentRun:  3
+ii:  -1010
+C:\Users\lab-admin\Desktop\Lichen_Wu\movies_processed\ndl14_hgt5_r3\ndl14_ht5_r3_-1003.txt
+img-1003 impXX=1278  impYY=1032
+        1032
+
+<a href="matlab: opentoline('C:\Users\lab-admin\Desktop\Lichen_Wu\matlab\profileVelocity\readAndPlotText_Wu_20200223.m',123,1)">123 </a>    if increaseHight>4
+if system_dependent('IsDebugMode')==1, dbstep; end
+increaseHight
+
+increaseHight =
+
+     0
+
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+Continue to process NEXT image? Y/N [Y]: <a href="matlab: opentoline('C:\Users\lab-admin\Desktop\Lichen_Wu\matlab\profileVelocity\readAndPlotText_Wu_20200223.m',135,1)">135 </a>    if isempty(go_on)
+if system_dependent('IsDebugMode')==1, dbquit; end
+readAndPlotText_Wu_20200223
+         2020            3           10           18            4       16.941
+
+currentNdl: 14
+currentHight:  5
+currentRun:  3
+ii:  -1010
+C:\Users\lab-admin\Desktop\Lichen_Wu\movies_processed\ndl14_hgt5_r3\ndl14_ht5_r3_-1003.txt
+img-1003 impXX=1278  impYY=1032
+        1032
+
+Continue to process NEXT image? Y/N [Y]: C:\Users\lab-admin\Desktop\Lichen_Wu\movies_processed\ndl14_hgt5_r3\ndl14_ht5_r3_-1002.txt
+img-1002 impXX=1280  impYY=1008
+        1008
+
+---------------
