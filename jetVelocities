@@ -498,3 +498,38 @@ img-754 impXX=2.541600e+02  impYY=9.572200e+02
        957.22
 
 -758 to -754 are jet growing-757 to -753 are jet growing-756 to -752 are jet growing-755 to -751 are jet growing-754 to -750 are jet growing---------------
+readAndPlotText_Wu_20200223
+         2020            3           10           18           26       28.866
+
+currentNdl: 14
+currentHight:  6
+currentRun:  2
+ii:  -1120
+C:\Users\lab-admin\Desktop\Lichen_Wu\movies_processed\ndl14_hgt6_r2\ndl14_ht6_r2_-1097_test.txt
+img-1097 impXX=2.552800e+02  impYY=9.435400e+02
+       943.54
+
+Continue to process NEXT image? Y/N [Y]: C:\Users\lab-admin\Desktop\Lichen_Wu\movies_processed\ndl14_hgt6_r2\ndl14_ht6_r2_-1096_test.txt
+img-1096 impXX=2.524300e+02  impYY=9.135300e+02
+       913.53
+
+-1096 to -1092 are jet growing---------------
+readAndPlotText_Wu_20200223
+  Columns 1 through 5
+
+         2020            3           10           18           37
+
+  Column 6
+
+       51.105
+
+currentNdl: 14
+currentHight:  6
+currentRun:  2
+ii:  -1120
+C:\Users\lab-admin\Desktop\Lichen_Wu\movies_processed\ndl14_hgt6_r2\ndl14_ht6_r2_-1097_test.txt
+img-1097 impXX=2.552800e+02  impYY=9.435400e+02
+Continue to process NEXT image? Y/N [Y]: C:\Users\lab-admin\Desktop\Lichen_Wu\movies_processed\ndl14_hgt6_r2\ndl14_ht6_r2_-1096_test.txt
+img-1096 impXX=2.524300e+02  impYY=9.135300e+02
+-1097 to -1093 are jet growing
+---------------
