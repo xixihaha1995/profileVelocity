@@ -29,7 +29,7 @@ currentDate = 20200108;
 currentNdl = input('currentNdl: ');
 currentHight = input('currentHight:  ');
 currentRun = input('currentRun:  ');
-ii = input('ii:  ');
+ii = input('reference image ii:  ');
 
 prefix_1 = 'C:\Users\lab-admin\Desktop\Lichen_Wu\movies_processed\';
 prefix_14 = num2str(currentDate);
