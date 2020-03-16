@@ -780,3 +780,33 @@ Continue to process NEXT image? Y/N [Y]: C:\Users\lab-admin\Desktop\Lichen_Wu\mo
 img-1034 impXX=1320  impYY=1016
 -1034 to -1030 are jet growing
 ---------------
+readAndPlotText_Wu_20200223
+         2020            3           16           11           32        3.015
+
+currentNdl: {Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('readAndPlotText_Wu_20200223', 'C:\Users\lab-admin\Desktop\Lichen_Wu\matlab\profileVelocity\readAndPlotText_Wu_20200223.m', 29)" style="font-weight:bold">readAndPlotText_Wu_20200223</a> (<a href="matlab: opentoline('C:\Users\lab-admin\Desktop\Lichen_Wu\matlab\profileVelocity\readAndPlotText_Wu_20200223.m',29,0)">line 29</a>)
+} 
+readAndPlotText_Wu_20200223
+         2020            3           16           11           41       58.339
+
+currentNdl: 14
+currentHight:  1
+currentRun:  2
+reference image ii:  -694
+{Unrecognized function or variable 'file'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('readAndPlotText_Wu_20200223', 'C:\Users\lab-admin\Desktop\Lichen_Wu\matlab\profileVelocity\readAndPlotText_Wu_20200223.m', 74)" style="font-weight:bold">readAndPlotText_Wu_20200223</a> (<a href="matlab: opentoline('C:\Users\lab-admin\Desktop\Lichen_Wu\matlab\profileVelocity\readAndPlotText_Wu_20200223.m',74,0)">line 74</a>)
+while exist(prefix,file)==0
+} 
+readAndPlotText_Wu_20200223
+         2020            3           16           11           42       27.271
+
+currentNdl: 14
+currentHight:  1
+currentRun:  2
+reference image ii:  -694
+C:\Users\lab-admin\Desktop\Lichen_Wu\movies_processed\20200108_ndl14_hgt1_r2\20200108_ndl14_ht1_r2_-0627_test.txt
+img-627 impXX=4.701300e+02  impYY=9.470200e+02
+Continue to process NEXT image? Y/N [Y]: C:\Users\lab-admin\Desktop\Lichen_Wu\movies_processed\20200108_ndl14_hgt1_r2\20200108_ndl14_ht1_r2_-0626_test.txt
+img-626 impXX=4.781600e+02  impYY=9.340400e+02
+-626 to -622 are jet growing
+---------------

@@ -47,6 +47,9 @@ prefix_9 ='_r';
 prefix_4 =num2str(currentRun);
 prefix_5= '_';
 
+prefix = strcat(prefix_1,prefix_14,prefix_15,prefix_10,prefix_11,prefix_6,...
+    prefix_7,prefix_2,prefix_3,prefix_12,prefix_13,prefix_8,prefix_9,prefix_4,prefix_5);
+
 
 % prefix_1 = 'C:\Users\lab-admin\Desktop\Lichen_Wu\movies_processed\';
 % % prefix_14 = num2str(currentDate);
@@ -65,25 +68,25 @@ prefix_5= '_';
 % prefix_4 =num2str(currentRun);
 % prefix_5= '_';
 
-prefix = strcat(prefix_1,prefix_15,prefix_10,prefix_11,prefix_6,...
-        prefix_7,prefix_2,prefix_3,prefix_12,prefix_13,prefix_8,prefix_9,prefix_4,prefix_5,num2str(ii, '%05g'),ext);
+% prefix = strcat(prefix_1,prefix_15,prefix_10,prefix_11,prefix_6,...
+%         prefix_7,prefix_2,prefix_3,prefix_12,prefix_13,prefix_8,prefix_9,prefix_4,prefix_5,num2str(ii, '%05g'),ext);
 
-while exist(prefix)==0
+while exist(prefix,'file')==0
     ii = ii + 1;
-    prefix = strcat(prefix_1,prefix_15,prefix_10,prefix_11,prefix_6,...
+    prefix = strcat(prefix_1,prefix_14,prefix_15,prefix_10,prefix_11,prefix_6,...
         prefix_7,prefix_2,prefix_3,prefix_12,prefix_13,prefix_8,prefix_9,prefix_4,prefix_5,num2str(ii, '%05g'),ext);
-    prefix_img = strcat(prefix_1,prefix_15,prefix_10,prefix_11,prefix_6,...
+    prefix_img = strcat(prefix_1,prefix_14,prefix_15,prefix_10,prefix_11,prefix_6,...
         prefix_7,prefix_2,prefix_3,prefix_12,prefix_13,prefix_8,prefix_9,prefix_4,prefix_5,num2str(ii, '%05g'),ext_img);
 end
 
-while go_on == 'Y' | go_on == 'y'
+while go_on == 'Y' || go_on == 'y'
 
-    prefix = strcat(prefix_1,prefix_15,prefix_10,prefix_11,prefix_6,...
+    prefix = strcat(prefix_1,prefix_14,prefix_15,prefix_10,prefix_11,prefix_6,...
         prefix_7,prefix_2,prefix_3,prefix_12,prefix_13,prefix_8,prefix_9,prefix_4,prefix_5,num2str(ii, '%05g'),ext);
 
     disp(prefix)
     
-    prefix_img = strcat(prefix_1,prefix_15,prefix_10,prefix_11,prefix_6,...
+    prefix_img = strcat(prefix_1,prefix_14,prefix_15,prefix_10,prefix_11,prefix_6,...
         prefix_7,prefix_2,prefix_3,prefix_12,prefix_13,prefix_8,prefix_9,prefix_4,prefix_5,num2str(ii, '%05g'),ext_img);
     % 
     % prefix_1 = 'C:\Users\lab-admin\Desktop\Lichen_Wu\movies_processed\';
@@ -181,7 +184,7 @@ while go_on == 'Y' | go_on == 'y'
     if increaseHight>4
         if increaseHight>20
             ii = ii - 1;
-            prefix = strcat(prefix_1,prefix_15,prefix_10,prefix_11,prefix_6,...
+            prefix = strcat(prefix_1,prefix_14,prefix_15,prefix_10,prefix_11,prefix_6,...
                 prefix_7,prefix_2,prefix_3,prefix_12,prefix_13,prefix_8,prefix_9,prefix_4,prefix_5,num2str(ii, '%05g'),ext);
         end
         for i = 1:5
@@ -199,7 +202,7 @@ while go_on == 'Y' | go_on == 'y'
             fclose(fid);
 
             ii = ii+1;
-            prefix = strcat(prefix_1,prefix_15,prefix_10,prefix_11,prefix_6,...
+            prefix = strcat(prefix_1,prefix_14,prefix_15,prefix_10,prefix_11,prefix_6,...
                 prefix_7,prefix_2,prefix_3,prefix_12,prefix_13,prefix_8,prefix_9,prefix_4,prefix_5,num2str(ii, '%05g'),ext);
         end
         fprintf('%d to %d are jet growing\n', ii-5,ii-1);
