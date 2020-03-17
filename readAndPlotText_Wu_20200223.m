@@ -110,7 +110,7 @@ while go_on == 'Y' || go_on == 'y'
     % prefix = strcat(prefix_1,prefix_14,prefix_15,prefix_10,prefix_11,prefix_6,...
     %     prefix_7,prefix_2,prefix_3,prefix_12,prefix_13,prefix_8,prefix_9,prefix_4,prefix_5);
 
-    outDir = 'C:\Users\lab-admin\Desktop\Lichen_Wu\matlab\profileVelocity\';
+    outDir = 'C:\Users\lab-admin\Desktop\Lichen_Wu\movies_profiled\';
 
     filename_out = strcat(outDir,'JetVel',ext_out);
     

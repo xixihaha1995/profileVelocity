@@ -1712,3 +1712,52 @@ C:\Users\lab-admin\Desktop\Lichen_Wu\movies_processed\20200108_ndl22_hgt7_r3\202
 img-719 impXX=5.043400e+02  impYY=9.844800e+02
 -719 to -715 are jet growing
 ---------------
+uiopen('C:\Users\lab-admin\Desktop\Lichen_Wu\matlab\circle_droplet\circle_Wu_20200302.m',1)
+circle_Wu_20200302
+  Columns 1 through 5
+
+         2020            3           17           16           15
+
+  Column 6
+
+       42.447
+
+currentNdl: 22
+currentHight:  0
+currentRun:  1
+C:\Users\lab-admin\Desktop\Lichen_Wu\movies_processed\20200108_ndl22_hgt0_r1\20200108_ndl22_ht0_r1_
+reference image (ref_index =?):  -654
+Stretch figure 1 horizontally for a better resolution..... 
+Click on the middle pick in red line once: ?
+ ... 
+Click on the middle pick in green line once: ?
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('circle_Wu_20200302', 'C:\Users\lab-admin\Desktop\Lichen_Wu\matlab\circle_droplet\circle_Wu_20200302.m', 161)" style="font-weight:bold">circle_Wu_20200302</a> (<a href="matlab: opentoline('C:\Users\lab-admin\Desktop\Lichen_Wu\matlab\circle_droplet\circle_Wu_20200302.m',161,0)">line 161</a>)
+locations of droplet are wrong
+} 
+opentoline('C:\Users\lab-admin\Desktop\Lichen_Wu\matlab\circle_droplet\circle_Wu_20200302.m',161,0)
+cenXX
+
+cenXX =
+
+         1601
+
+circle_Wu_20200302
+  Columns 1 through 5
+
+         2020            3           17           16           21
+
+  Column 6
+
+       21.482
+
+currentNdl: 22
+currentHight:  0
+currentRun:  1
+C:\Users\lab-admin\Desktop\Lichen_Wu\movies_processed\20200108_ndl22_hgt0_r1\20200108_ndl22_ht0_r1_
+Stretch figure 1 horizontally for a better resolution..... 
+Click on the middle pick in red line once: ?
+ ... 
+Click on the middle pick in green line once: ?
+Droplet from image -645 might have contacted the surface
+Total 8 images have been processed, 0 have been circled, 8 have been centroided.
+------
