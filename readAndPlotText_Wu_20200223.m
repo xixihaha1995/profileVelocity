@@ -29,7 +29,8 @@ currentDate = 20200108;
 currentNdl = input('currentNdl: ');
 currentHight = input('currentHight:  ');
 currentRun = input('currentRun:  ');
-ii = input('reference image ii:  ');
+% ii = input('reference image ii:  ');
+ii = -1200;
 
 prefix_1 = 'C:\Users\lab-admin\Desktop\Lichen_Wu\movies_processed\';
 prefix_14 = num2str(currentDate);
@@ -209,7 +210,7 @@ while go_on == 'Y' || go_on == 'y'
         break
     end
  
-    go_on = input('Continue to process NEXT image? Y/N [Y]: ','s');
+%     go_on = input('Continue to process NEXT image? Y/N [Y]: ','s');
     
     if isempty(go_on)
         go_on = 'Y';

@@ -1068,3 +1068,152 @@ Continue to process NEXT image? Y/N [Y]: C:\Users\lab-admin\Desktop\Lichen_Wu\mo
 img-1055 impXX=5.254900e+02  impYY=9.358200e+02
 -1056 to -1052 are jet growing
 ---------------
+readAndPlotText_Wu_20200223
+         2020            3           17           15           58       53.744
+
+currentNdl: 22
+currentHight:  0
+currentRun:  2
+reference image ii:  -2000
+C:\Users\lab-admin\Desktop\Lichen_Wu\movies_processed\20200108_ndl22_hgt0_r2\20200108_ndl22_ht0_r2_-0676_test.txt
+img-676 impXX=7.894300e+02  impYY=9.600200e+02
+Continue to process NEXT image? Y/N [Y]: C:\Users\lab-admin\Desktop\Lichen_Wu\movies_processed\20200108_ndl22_hgt0_r2\20200108_ndl22_ht0_r2_-0675_test.txt
+img-675 impXX=7.846400e+02  impYY=9.389700e+02
+-676 to -672 are jet growing
+---------------
+readAndPlotText_Wu_20200223
+         2020            3           17           16            0       48.386
+
+currentNdl: 22
+currentHight:  0
+currentRun:  3
+C:\Users\lab-admin\Desktop\Lichen_Wu\movies_processed\20200108_ndl22_hgt0_r3\20200108_ndl22_ht0_r3_-0741_test.txt
+img-741 impXX=7.044000e+02  impYY=9.476800e+02
+Continue to process NEXT image? Y/N [Y]: C:\Users\lab-admin\Desktop\Lichen_Wu\movies_processed\20200108_ndl22_hgt0_r3\20200108_ndl22_ht0_r3_-0740_test.txt
+img-740 impXX=7.115800e+02  impYY=9.237300e+02
+-741 to -737 are jet growing
+---------------
+readAndPlotText_Wu_20200223
+         2020            3           17           16            1        7.163
+
+currentNdl: 22
+currentHight:  1
+currentRun:  1
+C:\Users\lab-admin\Desktop\Lichen_Wu\movies_processed\20200108_ndl22_hgt1_r1\20200108_ndl22_ht1_r1_-0569_test.txt
+img-569 impXX=4.118900e+02  impYY=9.119900e+02
+Continue to process NEXT image? Y/N [Y]: C:\Users\lab-admin\Desktop\Lichen_Wu\movies_processed\20200108_ndl22_hgt1_r1\20200108_ndl22_ht1_r1_-0568_test.txt
+img-568 impXX=4.111200e+02  impYY=8.879800e+02
+-569 to -565 are jet growing
+---------------
+readAndPlotText_Wu_20200223
+         2020            3           17           16            1       30.868
+
+currentNdl: 22
+currentHight:  1
+currentRun:  2
+C:\Users\lab-admin\Desktop\Lichen_Wu\movies_processed\20200108_ndl22_hgt1_r2\20200108_ndl22_ht1_r2_-0657_test.txt
+img-657 impXX=7.674000e+02  impYY=9.486000e+02
+Continue to process NEXT image? Y/N [Y]: C:\Users\lab-admin\Desktop\Lichen_Wu\movies_processed\20200108_ndl22_hgt1_r2\20200108_ndl22_ht1_r2_-0656_test.txt
+img-656 impXX=7.676000e+02  impYY=9.216100e+02
+-657 to -653 are jet growing
+---------------
+readAndPlotText_Wu_20200223
+         2020            3           17           16            1       38.533
+
+currentNdl: 22
+currentHight:  1
+currentRun:  3
+C:\Users\lab-admin\Desktop\Lichen_Wu\movies_processed\20200108_ndl22_hgt1_r3\20200108_ndl22_ht1_r3_00551_test.txt
+img551 impXX=9.976300e+02  impYY=9.482900e+02
+Continue to process NEXT image? Y/N [Y]: C:\Users\lab-admin\Desktop\Lichen_Wu\movies_processed\20200108_ndl22_hgt1_r3\20200108_ndl22_ht1_r3_00552_test.txt
+img552 impXX=1.002940e+03  impYY=9.203500e+02
+551 to 555 are jet growing
+---------------
+readAndPlotText_Wu_20200223
+         2020            3           17           16            1        50.02
+
+currentNdl: 22
+currentHight:  2
+currentRun:  1
+<a href="matlab: opentoline('C:\Users\lab-admin\Desktop\Lichen_Wu\matlab\profileVelocity\readAndPlotText_Wu_20200223.m',76,1)">76  </a>    ii = ii + 1;
+if system_dependent('IsDebugMode')==1, dbquit; end
+readAndPlotText_Wu_20200223
+         2020            3           17           16            2       17.077
+
+currentNdl: 22
+currentHight:  2
+currentRun:  1
+C:\Users\lab-admin\Desktop\Lichen_Wu\movies_processed\20200108_ndl22_hgt2_r1\20200108_ndl22_ht2_r1_-1117_test.txt
+img-1117 impXX=3.937800e+02  impYY=9.105600e+02
+Continue to process NEXT image? Y/N [Y]: C:\Users\lab-admin\Desktop\Lichen_Wu\movies_processed\20200108_ndl22_hgt2_r1\20200108_ndl22_ht2_r1_-1116_test.txt
+img-1116 impXX=3.969700e+02  impYY=8.885900e+02
+-1117 to -1113 are jet growing
+---------------
+readAndPlotText_Wu_20200223
+         2020            3           17           16            3       20.841
+
+currentNdl: 22
+currentHight:  2
+currentRun:  2
+C:\Users\lab-admin\Desktop\Lichen_Wu\movies_processed\20200108_ndl22_hgt2_r2\20200108_ndl22_ht2_r2_-0452_test.txt
+img-452 impXX=6.282700e+02  impYY=9.660400e+02
+Continue to process NEXT image? Y/N [Y]: C:\Users\lab-admin\Desktop\Lichen_Wu\movies_processed\20200108_ndl22_hgt2_r2\20200108_ndl22_ht2_r2_-0451_test.txt
+img-451 impXX=6.284400e+02  impYY=9.420400e+02
+-452 to -448 are jet growing
+---------------
+readAndPlotText_Wu_20200223
+         2020            3           17           16            3       26.607
+
+currentNdl: 22
+currentHight:  2
+currentRun:  3
+C:\Users\lab-admin\Desktop\Lichen_Wu\movies_processed\20200108_ndl22_hgt2_r3\20200108_ndl22_ht2_r3_-1057_test.txt
+img-1057 impXX=576  impYY=9.222500e+02
+Continue to process NEXT image? Y/N [Y]: C:\Users\lab-admin\Desktop\Lichen_Wu\movies_processed\20200108_ndl22_hgt2_r3\20200108_ndl22_ht2_r3_-1056_test.txt
+img-1056 impXX=5.782700e+02  impYY=9.002700e+02
+-1057 to -1053 are jet growing
+---------------
+readAndPlotText_Wu_20200223
+         2020            3           17           16            3       32.269
+
+currentNdl: 22
+currentHight:  3
+currentRun:  1
+C:\Users\lab-admin\Desktop\Lichen_Wu\movies_processed\20200108_ndl22_hgt3_r1\20200108_ndl22_ht3_r1_-0493_test.txt
+img-493 impXX=6.307800e+02  impYY=9.464700e+02
+Continue to process NEXT image? Y/N [Y]: C:\Users\lab-admin\Desktop\Lichen_Wu\movies_processed\20200108_ndl22_hgt3_r1\20200108_ndl22_ht3_r1_-0492_test.txt
+img-492 impXX=6.380900e+02  impYY=9.235700e+02
+-493 to -489 are jet growing
+---------------
+readAndPlotText_Wu_20200223
+         2020            3           17           16            3       40.041
+
+currentNdl: 22
+currentHight:  3
+currentRun:  2
+C:\Users\lab-admin\Desktop\Lichen_Wu\movies_processed\20200108_ndl22_hgt3_r2\20200108_ndl22_ht3_r2_-0019_test.txt
+img-19 impXX=4.764100e+02  impYY=9.610900e+02
+Continue to process NEXT image? Y/N [Y]: C:\Users\lab-admin\Desktop\Lichen_Wu\movies_processed\20200108_ndl22_hgt3_r2\20200108_ndl22_ht3_r2_-0018_test.txt
+img-18 impXX=5.166100e+02  impYY=9.404800e+02
+-19 to -15 are jet growing
+---------------
+readAndPlotText_Wu_20200223
+         2020            3           17           16            3       46.291
+
+currentNdl: 22
+currentHight:  3
+currentRun:  3
+C:\Users\lab-admin\Desktop\Lichen_Wu\movies_processed\20200108_ndl22_hgt3_r3\20200108_ndl22_ht3_r3_-0298_test.txt
+img-298 impXX=2.062400e+02  impYY=9.814800e+02
+Continue to process NEXT image? Y/N [Y]: C:\Users\lab-admin\Desktop\Lichen_Wu\movies_processed\20200108_ndl22_hgt3_r3\20200108_ndl22_ht3_r3_-0297_test.txt
+img-297 impXX=1.992100e+02  impYY=9.843900e+02
+Continue to process NEXT image? Y/N [Y]: C:\Users\lab-admin\Desktop\Lichen_Wu\movies_processed\20200108_ndl22_hgt3_r3\20200108_ndl22_ht3_r3_-0296_test.txt
+img-296 impXX=3.542000e+02  impYY=9.863000e+02
+Continue to process NEXT image? Y/N [Y]: C:\Users\lab-admin\Desktop\Lichen_Wu\movies_processed\20200108_ndl22_hgt3_r3\20200108_ndl22_ht3_r3_-0295_test.txt
+img-295 impXX=3.391700e+02  impYY=9.881100e+02
+Continue to process NEXT image? Y/N [Y]: C:\Users\lab-admin\Desktop\Lichen_Wu\movies_processed\20200108_ndl22_hgt3_r3\20200108_ndl22_ht3_r3_-0294_test.txt
+img-294 impXX=3.351600e+02  impYY=9.890700e+02
+Continue to process NEXT image? Y/N [Y]: C:\Users\lab-admin\Desktop\Lichen_Wu\movies_processed\20200108_ndl22_hgt3_r3\20200108_ndl22_ht3_r3_-0293_test.txt
+img-293 impXX=4.662600e+02  impYY=9.816800e+02
+-293 to -289 are jet growing
+---------------
